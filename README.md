@@ -32,6 +32,7 @@ Annam Purnima
 
 🎓 B.Tech Student, Vignan’s Nirula Institute of Technology and Science for Women
 GitHub- https://github.com/Purnimaannam
+
 LinkedIn-http://www.linkedin.com/in/purnima20
 
 
