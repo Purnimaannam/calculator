@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
  📝 About
 This is a simple web-based calculator built using the Django web framework. It showcases the fundamental concepts of web development with Django, including views, forms, URL routing, and template rendering. The interface allows users to input numbers and perform basic arithmetic operations.
